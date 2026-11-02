@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150" role="img" aria-labelledby="title desc">
+<title id="title">Mini SOC Analyzer</title><desc id="desc">Logs SSH · Detecção de força bruta · Alertas por severidade</desc>
+<rect x="1" y="1" width="1098" height="148" rx="14" fill="#0b1422" stroke="#24394f"/>
+<path d="M18 24V126" stroke="#34f5a3" stroke-width="4" stroke-linecap="round"/>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<text x="43" y="34" fill="#34f5a3" font-size="11" letter-spacing="2">BLUE TEAM / ANÁLISE DE LOGS</text>
+<text x="42" y="80" fill="#f0f6fc" font-size="32" font-weight="700">Mini SOC Analyzer</text>
+<text x="44" y="115" fill="#aebed0" font-size="16">Logs SSH · Detecção de força bruta · Alertas por severidade</text>
+<text x="1025" y="100" text-anchor="middle" fill="#34f5a3" fill-opacity=".2" font-family="Consolas,monospace" font-size="70" font-weight="700">01</text>
+</g></svg>
