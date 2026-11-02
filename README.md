@@ -7,9 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-38D9FF?style=for-the-badge&labelColor=0B1422)](https://www.linkedin.com/in/geovani-rodrigues-de-almeida)
 [![Oportunidades](https://img.shields.io/badge/Em_busca_de_estágio-TI_e_Segurança-34F5A3?style=for-the-badge&labelColor=0B1422)](https://www.linkedin.com/in/geovani-rodrigues-de-almeida)
 
-[Sobre mim](#-sobre-mim) &nbsp; / &nbsp; [Projetos](#-projetos-em-destaque) &nbsp; / &nbsp; [Cyber + IA](#-cibersegurança--inteligência-artificial) &nbsp; / &nbsp; [Formação](#-formação-acadêmica)
+[Sobre mim](#sobre-mim) &nbsp; / &nbsp; [Projetos](#projetos) &nbsp; / &nbsp; [Cyber + IA](#cyber-ia) &nbsp; / &nbsp; [Formação](#formacao)
 
 </div>
+
+<a name="sobre-mim"></a>
 
 ## 🧑‍💻 Sobre mim
 
@@ -20,6 +22,8 @@ Aprendo na prática: entre meus projetos em Python estão um **scanner de portas
 **Busco estágio em TI e segurança.** Me encontre no [LinkedIn](https://www.linkedin.com/in/geovani-rodrigues-de-almeida).
 
 ---
+
+<a name="projetos"></a>
 
 ## 🛡️ Projetos em destaque
 
@@ -81,6 +85,8 @@ Scanner com interface gráfica que verifica um intervalo de portas TCP, associa 
 
 ---
 
+<a name="cyber-ia"></a>
+
 ## 🧠 Cibersegurança × Inteligência Artificial
 
 **Meu próximo foco de aprendizado: explorar como a IA pode apoiar a análise de segurança.**
@@ -95,6 +101,8 @@ Quero investigar formas de organizar evidências, interpretar eventos e apoiar a
 | **Inteligência Artificial** | Possibilidades de aplicação da IA como apoio à análise de segurança. |
 
 ---
+
+<a name="formacao"></a>
 
 ## 🎓 Formação acadêmica
 
@@ -121,3 +129,4 @@ Busco uma oportunidade de **estágio em TI e Segurança da Informação** para a
 [Explore meus repositórios ↗](https://github.com/ge454?tab=repositories)
 
 </div>
+
